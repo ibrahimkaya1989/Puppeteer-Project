@@ -1,0 +1,17 @@
+{
+    "name": "puppeteer-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./node_modules/mocha/bin/mocha --timeout=25000 ./Tests/InteractInputBox.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.3.6",
+        "mocha": "^9.2.2",
+        "puppeteer": "^13.5.1",
+        "puppeteer-core": "^13.5.1"
+    }
+}
