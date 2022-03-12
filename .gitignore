@@ -1,2 +1,7 @@
 # Project exclude paths
 /node_modules/
+
+# Project exclude files
+*.gitignore
+*.txt
+readMe.txt
